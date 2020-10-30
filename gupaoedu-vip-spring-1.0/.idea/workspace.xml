@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="196e7df8-160e-4926-bc9c-89e796687275" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/Aspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/TestAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/TestAspectImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/TestAspectImplA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v3/servlet/GPDispatcherServletBak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v3/servlet/GPDispatcherServletBak.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v4/servlet/CXDispatcherServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1176">
+              <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/Aspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/TestAspectImplA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/MyAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5462" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11844">
+              <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/reflect/Proxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18452">
+              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/webdefault.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v4/servlet/CXDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/MyAspect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="350" />
+    <option name="width" value="1605" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gupaoedu-vip-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gupaoedu-vip-spring-1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyAspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.demo.test.MyAspect" />
+      <module name="gupaoedu-vip-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyAspect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="196e7df8-160e-4926-bc9c-89e796687275" name="Default Changelist" comment="" />
+      <created>1602410165811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602410165811</updated>
+      <workItem from="1602410170751" duration="7991000" />
+      <workItem from="1602464067582" duration="127000" />
+      <workItem from="1603074232701" duration="2274000" />
+      <workItem from="1603765571871" duration="726000" />
+    </task>
+    <task id="LOCAL-00001" summary="练习spring的请求机制">
+      <created>1602464155882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602464155882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11118000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41823056" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28045326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3281471" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14745308" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="练习spring的请求机制" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习spring的请求机制" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v4/CXDispatcherServlet.java" />
+    <entry file="uml://JAVA/com.gupaoedu.mvcframework.annotation.GPRequestMapping">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gupaoedu.mvcframework.annotation.GPRequestMapping</OriginalElement>
+          <nodes>
+            <node x="117.74635416666666" y="490.0">com.gupaoedu.mvcframework.annotation.GPRequestMapping</node>
+            <node x="10.369791666666629" y="0.0">java.lang.annotation.Annotation</node>
+            <node x="88.24999999999997" y="268.0">java.lang.annotation.Target</node>
+            <node x="66.89843749999997" y="180.0">java.lang.annotation.Documented</node>
+            <node x="0.0" y="379.0">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.gupaoedu.mvcframework.annotation.GPRequestMapping" target="java.lang.annotation.Retention">
+              <point x="-74.62500000000003" y="-30.5" />
+              <point x="142.62135416666663" y="465.0" />
+              <point x="90.0" y="465.0" />
+              <point x="0.0" y="30.5" />
+            </edge>
+            <edge source="java.lang.annotation.Documented" target="java.lang.annotation.Annotation">
+              <point x="0.0" y="-19.0" />
+              <point x="137.89843749999997" y="155.0" />
+              <point x="130.36979166666663" y="155.0" />
+              <point x="-40.0" y="65.0" />
+            </edge>
+            <edge source="java.lang.annotation.Documented" target="java.lang.annotation.Retention">
+              <point x="-28.400000000000006" y="19.0" />
+              <point x="109.49843749999997" y="248.0" />
+              <point x="71.9817708333333" y="248.0" />
+              <point x="71.9817708333333" y="354.0" />
+              <point x="89.99999999999997" y="354.0" />
+              <point x="-2.8421709430404007E-14" y="-30.5" />
+            </edge>
+            <edge source="java.lang.annotation.Target" target="java.lang.annotation.Retention">
+              <point x="0.0" y="30.5" />
+              <point x="174.24999999999997" y="354.0" />
+              <point x="161.99999999999997" y="354.0" />
+              <point x="71.99999999999997" y="-30.5" />
+            </edge>
+            <edge source="java.lang.annotation.Target" target="java.lang.annotation.Annotation">
+              <point x="57.33333333333334" y="-30.5" />
+              <point x="231.58333333333331" y="248.0" />
+              <point x="219.39843749999997" y="248.0" />
+              <point x="219.39843749999997" y="155.0" />
+              <point x="210.36979166666663" y="155.0" />
+              <point x="40.0" y="65.0" />
+            </edge>
+            <edge source="java.lang.annotation.Retention" target="java.lang.annotation.Annotation">
+              <point x="-72.00000000000003" y="-30.5" />
+              <point x="17.99999999999997" y="354.0" />
+              <point x="46.67343749999998" y="354.0" />
+              <point x="46.67343749999998" y="155.0" />
+              <point x="50.36979166666663" y="155.0" />
+              <point x="-120.0" y="65.0" />
+            </edge>
+            <edge source="java.lang.annotation.Retention" target="java.lang.annotation.Target">
+              <point x="35.99999999999997" y="-30.5" />
+              <point x="125.99999999999997" y="354.0" />
+              <point x="116.91666666666663" y="354.0" />
+              <point x="-57.333333333333336" y="30.5" />
+            </edge>
+            <edge source="com.gupaoedu.mvcframework.annotation.GPRequestMapping" target="java.lang.annotation.Documented">
+              <point x="24.87499999999997" y="-30.5" />
+              <point x="242.12135416666663" y="465.0" />
+              <point x="270.75" y="465.0" />
+              <point x="270.75" y="238.0" />
+              <point x="194.69843749999998" y="238.0" />
+              <point x="56.80000000000001" y="19.0" />
+            </edge>
+            <edge source="java.lang.annotation.Documented" target="java.lang.annotation.Target">
+              <point x="28.400000000000006" y="19.0" />
+              <point x="166.29843749999998" y="248.0" />
+              <point x="174.24999999999997" y="248.0" />
+              <point x="0.0" y="-30.5" />
+            </edge>
+            <edge source="com.gupaoedu.mvcframework.annotation.GPRequestMapping" target="java.lang.annotation.Target">
+              <point x="-24.87500000000003" y="-30.5" />
+              <point x="192.37135416666663" y="465.0" />
+              <point x="227.69010416666666" y="465.0" />
+              <point x="227.69010416666666" y="354.0" />
+              <point x="231.58333333333331" y="354.0" />
+              <point x="57.33333333333334" y="30.5" />
+            </edge>
+            <edge source="java.lang.annotation.Target" target="java.lang.annotation.Documented">
+              <point x="-57.33333333333334" y="-30.5" />
+              <point x="116.91666666666663" y="248.0" />
+              <point x="137.89843749999997" y="248.0" />
+              <point x="0.0" y="19.0" />
+            </edge>
+            <edge source="com.gupaoedu.mvcframework.annotation.GPRequestMapping" target="java.lang.annotation.Annotation">
+              <point x="74.62499999999997" y="-30.5" />
+              <point x="291.8713541666666" y="465.0" />
+              <point x="288.3880208333333" y="465.0" />
+              <point x="288.3880208333333" y="155.0" />
+              <point x="290.36979166666663" y="155.0" />
+              <point x="120.0" y="65.0" />
+            </edge>
+            <edge source="java.lang.annotation.Retention" target="java.lang.annotation.Documented">
+              <point x="-36.00000000000003" y="-30.5" />
+              <point x="53.99999999999997" y="354.0" />
+              <point x="60.9817708333333" y="354.0" />
+              <point x="60.9817708333333" y="238.0" />
+              <point x="81.09843749999997" y="238.0" />
+              <point x="-56.8" y="19.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-9.0" y="157.0" />
+          <SelectedNodes>
+            <node>com.gupaoedu.mvcframework.annotation.GPRequestMapping</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/mvc/action/DemoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/annotation/GPRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/mvcframework/v4/servlet/CXDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/Aspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/TestAspectImplA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11844">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18452">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/webdefault.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupaoedu/demo/test/MyAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5462" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
